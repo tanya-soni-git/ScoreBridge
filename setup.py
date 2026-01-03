@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements        
 
 setup(
-    name='MLproject',
+    name='ScoreBridge',
     version='0.0.1',
     author='Tanya',
     author_email='tanya25soni@gmail.com',
