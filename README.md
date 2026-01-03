@@ -1,4 +1,4 @@
-# 🎓 Student Performance Predictor
+# 🎓 ScoreBridge
 
 An end-to-end machine learning web application that predicts a student’s **math score** based on reading & writing scores and background factors like gender, ethnicity, lunch type, parental education, and test preparation.
 
